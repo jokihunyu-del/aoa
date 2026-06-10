@@ -1,0 +1,3 @@
+- Be respectful and make focused changes.
+- Use feature branches; do not force-push shared branches.
+- Run `npm run build` and `npm test` before submitting changes.
